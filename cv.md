@@ -8,4 +8,4 @@ learning new things from everywhere etc.).
 5. Code examples (LATEST)
 6. Have a little experience on the Web, namely html / css
 7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+8. The practice was educational only, not conversational.
