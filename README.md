@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/DanyaTV
+https://danyatv.github.io/rsschool-cv/cv
